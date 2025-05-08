@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609911572477",
+    "project_id": "taskhive-9c931",
+    "storage_bucket": "taskhive-9c931.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609911572477:android:59b8c7858a7d016a763b94",
+        "android_client_info": {
+          "package_name": "com.alex.taskhive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAdvzLM2W0Fr_-hwJWVh_nknN_gmFHan0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
