@@ -18,7 +18,6 @@ import androidx.navigation.compose.rememberNavController
 import kotlinx.coroutines.delay
 import com.alex.taskhive.R
 import com.alex.taskhive.navigation.ROUT_LOGIN
-import com.alex.taskhive.navigation.ROUT_REGISTER
 import com.alex.taskhive.ui.theme.Black
 import com.alex.taskhive.ui.theme.newOrange
 

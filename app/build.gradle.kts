@@ -61,6 +61,7 @@ dependencies {
 
     // Navigation
     implementation("androidx.navigation:navigation-compose:2.7.7")
+    impleme
 
     // Room
     implementation("androidx.room:room-runtime:2.6.1")
@@ -87,7 +88,13 @@ dependencies {
 
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
-}
+
+    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:2.6.2")
+
+
+
 
 // ✅ Required for Firebase to work correctly
-apply(plugin = "com.google.gms.google-services")
+    apply(plugin = "com.google.gms.google-services")
+}
+
